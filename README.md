@@ -26,7 +26,7 @@ $result = $rateLimiter->check('test', 5, 10);
 Adapters
 -------
 
-Support 3 adapters
+Currenctly support 3 adapters
 
 * Redis
 * APC
