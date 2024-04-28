@@ -5,7 +5,6 @@ use Sunshiner\RateLimiter\RateLimiter;
 use Sunshiner\RateLimiter\Adapter\FileAdapter;
 use Sunshiner\RateLimiter\Adapter\RedisAdapter;
 use Sunshiner\RateLimiter\Adapter\ApcuAdapter;
-use Sunshiner\RateLimiter\Adapter\MemcachedAdapter;
 
 /**
  * Test cases for RateLimiter class
