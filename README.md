@@ -30,7 +30,7 @@ Currenctly support 3 adapters
 
 * Redis
 * APC
-* Fuile
+* File
 
 
 Unit Tests
